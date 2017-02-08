@@ -1,4 +1,5 @@
 # Calculating-Grades
+This program asks the user for a quiz score and converts that numeric score to a letter grade as follows:
 score >= 93: A
 
 90 <= score < 93: A-
